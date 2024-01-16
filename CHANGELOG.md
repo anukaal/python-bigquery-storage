@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-bigquery-storage/#history
 
+## [2.25.0](https://github.com/googleapis/python-bigquery-storage/compare/v2.24.0...v2.25.0) (2024-01-16)
+
+
+### Features
+
+* Add ability to request compressed ReadRowsResponse rows ([#728](https://github.com/googleapis/python-bigquery-storage/issues/728)) ([fe09e3b](https://github.com/googleapis/python-bigquery-storage/commit/fe09e3b3940e0cba3de70906f49b19beaca16930))
+
 ## [2.24.0](https://github.com/googleapis/python-bigquery-storage/compare/v2.23.0...v2.24.0) (2023-12-12)
 
 
